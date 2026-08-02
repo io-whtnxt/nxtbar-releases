@@ -3,13 +3,13 @@
     <channel>
         <title>NxtBar</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 02 Aug 2026 14:47:56 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Sun, 02 Aug 2026 14:52:54 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.1.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.1.0/NxtBar-1.1.0.dmg" length="2170854" type="application/octet-stream" sparkle:edSignature="5eHnOhlJuFmpVjHvhs/oof/tjBdECI46pyE1uIAIOdtCS0+xuXV7FED0ykeeuw+333YzfFjJwvfv1Dw2tLwSBg=="/>
+            <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.1.1/NxtBar-1.1.1.dmg" length="2170956" type="application/octet-stream" sparkle:edSignature="f+AKvuHrzL28kQjaeX0WyKqSEOCf6CHATS6KgKY/PI+1SIMbLvirocHzzOzat2AD89ilbG+a076F7Yn5Nu6fDw=="/>
         </item>
     </channel>
 </rss>
