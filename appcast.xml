@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NxtBar</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 02 Aug 2026 14:47:56 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.1.0/NxtBar-1.1.0.dmg" length="2170854" type="application/octet-stream" sparkle:edSignature="5eHnOhlJuFmpVjHvhs/oof/tjBdECI46pyE1uIAIOdtCS0+xuXV7FED0ykeeuw+333YzfFjJwvfv1Dw2tLwSBg=="/>
+        </item>
+    </channel>
+</rss>
