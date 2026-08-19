@@ -3,6 +3,15 @@
     <channel>
         <title>NxtBar</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Wed, 19 Aug 2026 14:28:07 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.3.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.3.1/NxtBar-1.3.1.dmg" length="2468710" type="application/octet-stream" sparkle:edSignature="//wzxKSGV2Vz5EV0d2rV4UW+RbfiDF8XboaBYEEJ29dAgeLTaIEV/fz4SI3fMjKd1xUNlNb+2H3AlQwjniisBQ=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 19 Aug 2026 13:56:10 -0500</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.2.0.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.2.0/NxtBar-1.2.0.dmg" length="2430909" type="application/octet-stream" sparkle:edSignature="jvEmiatt8b3/DBxuxH56sQgULjYDee5774TDWkBHzWMTD2fglGs1E0SDvyrq4dZTlXWscsZV0kJs2eX4n+pMAw=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Sun, 02 Aug 2026 14:52:54 -0500</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://io-whtnxt.github.io/nxtbar-releases/NxtBar-1.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/io-whtnxt/nxtbar-releases/releases/download/v1.1.1/NxtBar-1.1.1.dmg" length="2170956" type="application/octet-stream" sparkle:edSignature="f+AKvuHrzL28kQjaeX0WyKqSEOCf6CHATS6KgKY/PI+1SIMbLvirocHzzOzat2AD89ilbG+a076F7Yn5Nu6fDw=="/>
         </item>
     </channel>
 </rss>
